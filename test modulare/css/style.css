@@ -1,0 +1,17 @@
+.wrapper{
+  display: inline-block;
+  box-sizing: border-box;
+  font-size:small;
+  padding: 5px 10px;
+  border-radius: 12px;
+}
+
+.editorial{
+  all:inherit;
+  box-sizing: content-box;
+  background-color: blue;
+}
+
+.mobile{
+  all:inherit;
+  background-color: red;
